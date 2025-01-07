@@ -54,28 +54,39 @@ internal class Program
         //}
         //romb
 
-        for (int i = 0; i < 10; i++)
-        {
-            for (int j = i; j < 10; j++)
-            {
-                Console.Write(" ");
-            }
+        //for (int i = 0; i < 10; i++)
+        //{
+        //    for (int j = i; j < 10; j++)
+        //    {
+        //        Console.Write(" ");
+        //    }
 
-            for (int k = i; k > 0; k--)
-            {
-                Console.Write("* ");
-            }
+        //    for (int k = i; k > 0; k--)
+        //    {
+        //        Console.Write("* ");
+        //    }
 
-            Console.WriteLine();
-        }
-        for (int i = 10; i > 0; i--)
+        //    Console.WriteLine();
+        //}
+        //for (int i = 10; i > 0; i--)
+        //{
+        //    for (int k = i; k < 10; k++)
+        //        Console.Write(" ");
+        //    for (int j = 0; j < i; j++)
+        //        Console.Write("* ");
+        //    Console.WriteLine();
+        //}
+        //zadacha 4
+        double sum = 1000;
+        double procent = 0.025;
+        int month = 0;
+        while (sum < 1100)
         {
-            for (int k = i; k < 10; k++)
-                Console.Write(" ");
-            for (int j = 0; j < i; j++)
-                Console.Write("* ");
-            Console.WriteLine();
+            sum += sum * procent;
+            month++;
         }
+        Console.WriteLine($"sum= {Math.Round(sum,2)} mesyats= {month}");
+
     }
 
 

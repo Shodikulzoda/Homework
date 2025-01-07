@@ -12,3 +12,4 @@ C:\Users\Alisher Olimov\source\repos\Homework\Homework\obj\Debug\net8.0\refint\H
 C:\Users\Alisher Olimov\source\repos\Homework\Homework\obj\Debug\net8.0\Homework.pdb
 C:\Users\Alisher Olimov\source\repos\Homework\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
 C:\Users\Alisher Olimov\source\repos\Homework\Homework\obj\Debug\net8.0\ref\Homework.dll
+C:\Users\Alisher Olimov\source\repos\Homework\Homework\obj\Debug\net8.0\Homework.sourcelink.json
