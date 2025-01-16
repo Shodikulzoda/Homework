@@ -1,5 +1,7 @@
 ﻿
 
+using System.Runtime.InteropServices;
+
 internal class Program
 {
     private static void Main(string[] args)
@@ -77,15 +79,16 @@ internal class Program
         //    Console.WriteLine();
         //}
         //zadacha 4
-        double sum = 1000;
-        double procent = 0.025;
-        int month = 0;
-        while (sum < 1100)
-        {
-            sum += sum * procent;
-            month++;
-        }
-        Console.WriteLine($"sum= {Math.Round(sum,2)} mesyats= {month}");
+        //double sum = 1000;
+        //double procent = 0.025;
+        //int month = 0;
+        //while (sum < 1100)
+        //{
+        //    sum += sum * procent;
+        //    month++;
+        //}
+        //Console.WriteLine($"sum= {Math.Round(sum,2)} mesyats= {month}");
+       
 
     }
 
