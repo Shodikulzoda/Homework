@@ -7,10 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework", "Homework\Homewo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoopTasks", "LoopTasks", "{B6CAF2AA-0C8D-4D6E-9BC6-ACB5F4ED0576}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{9D236611-2445-4EE1-AF50-4C8746797410}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{4CB5B9A9-9F34-4CBB-AB9A-D26372FA4FAE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,17 +17,12 @@ Global
 		{80DE7D98-C018-4B54-9DA1-0DD3823136EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80DE7D98-C018-4B54-9DA1-0DD3823136EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80DE7D98-C018-4B54-9DA1-0DD3823136EA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4CB5B9A9-9F34-4CBB-AB9A-D26372FA4FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4CB5B9A9-9F34-4CBB-AB9A-D26372FA4FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4CB5B9A9-9F34-4CBB-AB9A-D26372FA4FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4CB5B9A9-9F34-4CBB-AB9A-D26372FA4FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{80DE7D98-C018-4B54-9DA1-0DD3823136EA} = {B6CAF2AA-0C8D-4D6E-9BC6-ACB5F4ED0576}
-		{4CB5B9A9-9F34-4CBB-AB9A-D26372FA4FAE} = {9D236611-2445-4EE1-AF50-4C8746797410}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CF1EC1D-C0AE-4A1D-A889-CD9F23FDFE5D}

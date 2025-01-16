@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9YsjT8JPE7E=",
+  "dgSpecHash": "RV3GixWqzhk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\Homework\\Homework.csproj",
+  "projectFilePath": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alisher Olimov\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512",
     "C:\\Users\\Alisher Olimov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
