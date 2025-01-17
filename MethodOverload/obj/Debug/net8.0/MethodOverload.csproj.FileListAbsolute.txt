@@ -1,0 +1,15 @@
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\bin\Debug\net8.0\MethodOverload.exe
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\bin\Debug\net8.0\MethodOverload.deps.json
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\bin\Debug\net8.0\MethodOverload.runtimeconfig.json
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\bin\Debug\net8.0\MethodOverload.dll
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\bin\Debug\net8.0\MethodOverload.pdb
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\MethodOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\MethodOverload.AssemblyInfoInputs.cache
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\MethodOverload.AssemblyInfo.cs
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\MethodOverload.csproj.CoreCompileInputs.cache
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\MethodOverload.sourcelink.json
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\MethodOverload.dll
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\refint\MethodOverload.dll
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\MethodOverload.pdb
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\MethodOverload.genruntimeconfig.cache
+C:\Users\Alisher Olimov\source\repos\Homework\MethodOverload\obj\Debug\net8.0\ref\MethodOverload.dll

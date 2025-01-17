@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework", "Homework\Homewo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoopTasks", "LoopTasks", "{B6CAF2AA-0C8D-4D6E-9BC6-ACB5F4ED0576}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverload", "MethodOverload\MethodOverload.csproj", "{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hometask", "hometask\hometask.csproj", "{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,14 @@ Global
 		{80DE7D98-C018-4B54-9DA1-0DD3823136EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80DE7D98-C018-4B54-9DA1-0DD3823136EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80DE7D98-C018-4B54-9DA1-0DD3823136EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
