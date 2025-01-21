@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}|hometask\\hometask.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\hometask\\models\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}|hometask\\hometask.csproj|solutionrelative:hometask\\models\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}|hometask\\hometask.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}|hometask\\hometask.csproj|solutionrelative:hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}|hometask\\hometask.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\hometask\\hometask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}|hometask\\hometask.csproj|solutionrelative:hometask\\hometask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}|MethodOverload\\MethodOverload.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\methodoverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}|MethodOverload\\MethodOverload.csproj|solutionrelative:methodoverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}|MethodOverload\\MethodOverload.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\methodoverload\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}|MethodOverload\\MethodOverload.csproj|solutionrelative:methodoverload\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}|MethodOverload\\MethodOverload.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\methodoverload\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}|MethodOverload\\MethodOverload.csproj|solutionrelative:methodoverload\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}|MethodOverload\\MethodOverload.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\methodoverload\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DC6C3AB-321E-404F-A0E9-AD0A745A903D}|MethodOverload\\MethodOverload.csproj|solutionrelative:methodoverload\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,100 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TemperatureConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\hometask\\models\\TemperatureConverter.cs",
-              "RelativeDocumentMoniker": "hometask\\models\\TemperatureConverter.cs",
-              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\hometask\\models\\TemperatureConverter.cs*",
-              "RelativeToolTip": "hometask\\models\\TemperatureConverter.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T18:43:06.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "hometask",
-              "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\hometask\\hometask.csproj",
-              "RelativeDocumentMoniker": "hometask\\hometask.csproj",
-              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\hometask\\hometask.csproj",
-              "RelativeToolTip": "hometask\\hometask.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-17T18:39:18.944Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\hometask\\Program.cs",
               "RelativeDocumentMoniker": "hometask\\Program.cs",
-              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\hometask\\Program.cs",
-              "RelativeToolTip": "hometask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\hometask\\Program.cs*",
+              "RelativeToolTip": "hometask\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T18:35:38.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\MethodOverload\\Models\\BankAccount.cs",
-              "RelativeDocumentMoniker": "MethodOverload\\Models\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\MethodOverload\\Models\\BankAccount.cs",
-              "RelativeToolTip": "MethodOverload\\Models\\BankAccount.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:51:39.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\MethodOverload\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "MethodOverload\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\MethodOverload\\Models\\Student.cs",
-              "RelativeToolTip": "MethodOverload\\Models\\Student.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:34:16.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\MethodOverload\\Models\\Calculator.cs",
-              "RelativeDocumentMoniker": "MethodOverload\\Models\\Calculator.cs",
-              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\MethodOverload\\Models\\Calculator.cs",
-              "RelativeToolTip": "MethodOverload\\Models\\Calculator.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:12:05.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\MethodOverload\\Program.cs",
-              "RelativeDocumentMoniker": "MethodOverload\\Program.cs",
-              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\MethodOverload\\Program.cs",
-              "RelativeToolTip": "MethodOverload\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:10:42.17Z",
+              "WhenOpened": "2025-01-18T10:41:08.636Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

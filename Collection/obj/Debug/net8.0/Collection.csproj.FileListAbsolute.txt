@@ -1,0 +1,15 @@
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\bin\Debug\net8.0\Collection.exe
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\bin\Debug\net8.0\Collection.deps.json
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\bin\Debug\net8.0\Collection.runtimeconfig.json
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\bin\Debug\net8.0\Collection.dll
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\bin\Debug\net8.0\Collection.pdb
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\Collection.AssemblyInfo.cs
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\Collection.sourcelink.json
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\Collection.dll
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\refint\Collection.dll
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\Collection.pdb
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\Collection.genruntimeconfig.cache
+C:\Users\Alisher Olimov\source\repos\Homework\Collection\obj\Debug\net8.0\ref\Collection.dll

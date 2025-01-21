@@ -12,7 +12,7 @@ namespace hometask.models
         public string Marka { get; set; }
         public int Year { get; set; }
 
-        public void Distructor(out string model, out string marka, out int year)
+        public void Deconstruct(out string model, out string marka, out int year)
         {
             model = Model;
             marka = Marka;
