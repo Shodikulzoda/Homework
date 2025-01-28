@@ -1,0 +1,7 @@
+C:\Users\Alisher Olimov\source\repos\Homework\Incupsulation\bin\Debug\Incupsulation.exe.config
+C:\Users\Alisher Olimov\source\repos\Homework\Incupsulation\bin\Debug\Incupsulation.exe
+C:\Users\Alisher Olimov\source\repos\Homework\Incupsulation\bin\Debug\Incupsulation.pdb
+C:\Users\Alisher Olimov\source\repos\Homework\Incupsulation\obj\Debug\Incupsulation.csproj.AssemblyReference.cache
+C:\Users\Alisher Olimov\source\repos\Homework\Incupsulation\obj\Debug\Incupsulation.csproj.CoreCompileInputs.cache
+C:\Users\Alisher Olimov\source\repos\Homework\Incupsulation\obj\Debug\Incupsulation.exe
+C:\Users\Alisher Olimov\source\repos\Homework\Incupsulation\obj\Debug\Incupsulation.pdb

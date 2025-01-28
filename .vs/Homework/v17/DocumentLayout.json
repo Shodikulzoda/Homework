@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}|hometask\\hometask.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DEBD9F8-C2C7-4337-9013-90DBC3C71D74}|hometask\\hometask.csproj|solutionrelative:hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBB73C48-87BE-4ECE-8811-F1BE465DD241}|NullableType\\NullableType.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\nullabletype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB73C48-87BE-4ECE-8811-F1BE465DD241}|NullableType\\NullableType.csproj|solutionrelative:nullabletype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B0CB7E-7B87-4DD7-98AE-46E4CC8BEE47}|ExceptionLesson\\ExceptionLesson.csproj|c:\\users\\alisher olimov\\source\\repos\\homework\\exceptionlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B0CB7E-7B87-4DD7-98AE-46E4CC8BEE47}|ExceptionLesson\\ExceptionLesson.csproj|solutionrelative:exceptionlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,25 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\hometask\\Program.cs",
-              "RelativeDocumentMoniker": "hometask\\Program.cs",
-              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\hometask\\Program.cs",
-              "RelativeToolTip": "hometask\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwCEAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\ExceptionLesson\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionLesson\\Program.cs",
+              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\ExceptionLesson\\Program.cs",
+              "RelativeToolTip": "ExceptionLesson\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T10:41:08.636Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-01-28T08:25:03.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\NullableType\\Program.cs",
+              "RelativeDocumentMoniker": "NullableType\\Program.cs",
+              "ToolTip": "C:\\Users\\Alisher Olimov\\source\\repos\\Homework\\NullableType\\Program.cs",
+              "RelativeToolTip": "NullableType\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAnwF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:43:10.08Z",
+              "EditorCaption": ""
             }
           ]
         }

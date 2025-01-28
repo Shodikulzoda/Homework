@@ -1,0 +1,7 @@
+C:\Users\Alisher Olimov\source\repos\Homework\ExceptionLesson\bin\Debug\ExceptionLesson.exe.config
+C:\Users\Alisher Olimov\source\repos\Homework\ExceptionLesson\bin\Debug\ExceptionLesson.exe
+C:\Users\Alisher Olimov\source\repos\Homework\ExceptionLesson\bin\Debug\ExceptionLesson.pdb
+C:\Users\Alisher Olimov\source\repos\Homework\ExceptionLesson\obj\Debug\ExceptionLesson.csproj.AssemblyReference.cache
+C:\Users\Alisher Olimov\source\repos\Homework\ExceptionLesson\obj\Debug\ExceptionLesson.csproj.CoreCompileInputs.cache
+C:\Users\Alisher Olimov\source\repos\Homework\ExceptionLesson\obj\Debug\ExceptionLesson.exe
+C:\Users\Alisher Olimov\source\repos\Homework\ExceptionLesson\obj\Debug\ExceptionLesson.pdb

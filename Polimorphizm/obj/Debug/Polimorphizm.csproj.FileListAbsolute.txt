@@ -1,0 +1,7 @@
+C:\Users\Alisher Olimov\source\repos\Homework\Polimorphizm\bin\Debug\Polimorphizm.exe.config
+C:\Users\Alisher Olimov\source\repos\Homework\Polimorphizm\bin\Debug\Polimorphizm.exe
+C:\Users\Alisher Olimov\source\repos\Homework\Polimorphizm\bin\Debug\Polimorphizm.pdb
+C:\Users\Alisher Olimov\source\repos\Homework\Polimorphizm\obj\Debug\Polimorphizm.csproj.AssemblyReference.cache
+C:\Users\Alisher Olimov\source\repos\Homework\Polimorphizm\obj\Debug\Polimorphizm.csproj.CoreCompileInputs.cache
+C:\Users\Alisher Olimov\source\repos\Homework\Polimorphizm\obj\Debug\Polimorphizm.exe
+C:\Users\Alisher Olimov\source\repos\Homework\Polimorphizm\obj\Debug\Polimorphizm.pdb
